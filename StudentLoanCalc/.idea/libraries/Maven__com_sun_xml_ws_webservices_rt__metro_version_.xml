@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sun.xml.ws:webservices-rt:@metro.version@">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/ws/webservices-rt/@metro.version@/webservices-rt-@metro.version@.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/ws/webservices-rt/@metro.version@/webservices-rt-@metro.version@-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/ws/webservices-rt/@metro.version@/webservices-rt-@metro.version@-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
